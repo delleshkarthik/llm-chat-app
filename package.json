@@ -38,4 +38,10 @@
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
   }
+  "scripts": {
+  "dev": "vite",           // For local development only
+  "build": "vite build",   // For building the app for production
+  "start": "vite preview"  // For previewing the production build locally
+}
+
 }
