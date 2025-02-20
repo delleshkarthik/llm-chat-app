@@ -4,6 +4,7 @@
 
 The **llm-chat-app** is a real-time chat application that utilizes a Large Language Model (LLM) to facilitate intelligent conversations between users and an AI chatbot. This application is designed for seamless interaction, allowing users to engage in meaningful dialogues.
 
+![image alt](https://github.com/delleshkarthik/llm-chat-app/blob/f4e6e220977428479f20e60f2fb9c767e0d685e8/llm%20project.png)
 ## Features
 
 - **Real-Time Communication**: Engage with the AI in real-time for an interactive experience.
